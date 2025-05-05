@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lista02 EntradaDados/Ex01/Ex01.iml" filepath="$PROJECT_DIR$/Lista02 EntradaDados/Ex01/Ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista02 EntradaDados/Ex02/Ex02.iml" filepath="$PROJECT_DIR$/Lista02 EntradaDados/Ex02/Ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista02 EntradaDados/Ex03/Ex03.iml" filepath="$PROJECT_DIR$/Lista02 EntradaDados/Ex03/Ex03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista02 EntradaDados/Ex04/Ex04.iml" filepath="$PROJECT_DIR$/Lista02 EntradaDados/Ex04/Ex04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista02 EntradaDados/Ex05/Ex05.iml" filepath="$PROJECT_DIR$/Lista02 EntradaDados/Ex05/Ex05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista02 EntradaDados/Ex06/Ex06.iml" filepath="$PROJECT_DIR$/Lista02 EntradaDados/Ex06/Ex06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista3/Lista3.iml" filepath="$PROJECT_DIR$/Lista3/Lista3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ferro 1.iml" filepath="$PROJECT_DIR$/.idea/ferro 1.iml" />
+    </modules>
+  </component>
+</project>
